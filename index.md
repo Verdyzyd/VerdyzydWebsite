@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Official Verdyzyd Website
 
-You can use the [editor on GitHub](https://github.com/Verdyzyd/verdyzyd.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here on this website, you can find download links to different things from my Youtube Videos. You can also find other general information about the Youtube channel.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
@@ -32,6 +32,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Verdyzyd/verdyzyd.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Here you can find some basic contacts if you need to message me! Email(mailto:48746785+Verdyzyd@users.noreply.github.com)
